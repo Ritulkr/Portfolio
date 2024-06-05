@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [kumarritul089@gmail.com](mailto:kumarritul089@gmail.com)
+Ritul Kumar - [kumarritul089@gmail.com](mailto:kumarritul089@gmail.com)
 
 Project Link: [https://github.com/Ritulkr/Portfolio](https://github.com/Ritulkr/Portfolio)
 
