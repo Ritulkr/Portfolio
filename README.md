@@ -1,3 +1,4 @@
+
 # Portfolio Website
 
 ## Introduction
@@ -22,7 +23,7 @@ To view or edit the portfolio, you only need a web browser and a text editor.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/Ritulkr/portfolio.git
    ```
 
 2. **Navigate to the project directory:**
