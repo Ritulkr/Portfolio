@@ -14,6 +14,7 @@ This is a personal portfolio website built using only vanilla/plain HTML, CSS, a
 
 ## Getting Started
 
+
 ### Prerequisites
 
 To view or edit the portfolio, you only need a web browser and a text editor.
